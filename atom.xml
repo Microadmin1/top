@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guoshileinb.github.io/top</id>
     <title>Microadmin</title>
-    <updated>2021-06-24T02:57:32.467Z</updated>
+    <updated>2021-06-24T03:02:19.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guoshileinb.github.io/top"/>
     <link rel="self" href="https://guoshileinb.github.io/top/atom.xml"/>
@@ -19,7 +19,6 @@
         <summary type="html"><![CDATA[<p>😀Hi! 欢迎来到我的博客，这是我第一次创建博客。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>😀Hi! 欢迎来到我的博客，这是我第一次创建博客。</p>
-<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -28,13 +27,5 @@
         <link href="https://guoshileinb.github.io/top/post/about/">
         </link>
         <updated>2021-06-24T00:58:11.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站-emmm-个人博客啦">🏠 关于本站       emmm...... 个人博客啦</h2>
-<h2 id="博主是谁-microadmin">👨‍💻 博主是谁       Microadmin</h2>
-<h2 id="兴趣爱好-计算机">⛹ 兴趣爱好       计算机</h2>
-<h2 id="联系我呀-qq3072756864">📬 联系我呀       QQ：3072756864</h2>
-]]></content>
     </entry>
 </feed>
