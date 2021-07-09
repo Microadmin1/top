@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://guoshileinb.github.io/top</id>
+    <id>https://microadmin1.github.io</id>
     <title>Microadmin</title>
-    <updated>2021-06-24T03:10:01.269Z</updated>
+    <updated>2021-07-09T10:08:26.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://guoshileinb.github.io/top"/>
-    <link rel="self" href="https://guoshileinb.github.io/top/atom.xml"/>
+    <link rel="alternate" href="https://microadmin1.github.io"/>
+    <link rel="self" href="https://microadmin1.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://guoshileinb.github.io/top/images/avatar.png</logo>
-    <icon>https://guoshileinb.github.io/top/favicon.ico</icon>
+    <logo>https://microadmin1.github.io/images/avatar.png</logo>
+    <icon>https://microadmin1.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Microadmin</rights>
     <entry>
         <title type="html"><![CDATA[欢迎！]]></title>
-        <id>https://guoshileinb.github.io/top/post/huan-ying/</id>
-        <link href="https://guoshileinb.github.io/top/post/huan-ying/">
+        <id>https://microadmin1.github.io/post/huan-ying/</id>
+        <link href="https://microadmin1.github.io/post/huan-ying/">
         </link>
         <updated>2021-06-24T02:20:31.000Z</updated>
         <summary type="html"><![CDATA[<p>😀Hi! 欢迎来到我的博客，这是我第一次创建博客。</p>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://guoshileinb.github.io/top/post/about/</id>
-        <link href="https://guoshileinb.github.io/top/post/about/">
+        <id>https://microadmin1.github.io/post/about/</id>
+        <link href="https://microadmin1.github.io/post/about/">
         </link>
         <updated>2021-06-24T00:58:11.000Z</updated>
     </entry>
